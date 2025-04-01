@@ -1,6 +1,6 @@
 helpers/helpers.py
 change_log.md
 
-idea/
-data/
-.env
+.idea/
+data_archive/
+.env`

@@ -1,7 +1,9 @@
+black
 dash
 dotenv
 duckdb
 geopy
 pandas
 pyarrow
+pylint
 requests
